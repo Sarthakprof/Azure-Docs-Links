@@ -1,7 +1,6 @@
 # Azure-Docs-Links
 
 Azure Well Architected framework: https://docs.microsoft.com/en-us/azure/architecture/framework/
-
 Deploy Spring Boot App on Linux https://docs.microsoft.com/en-in/azure/developer/java/spring-framework/deploy-spring-boot-java-app-on-linux
 Deploy Spign Boot app on AKS and ACI: https://docs.microsoft.com/en-in/azure/developer/java/spring-framework/deploy-spring-boot-java-app-on-kubernetes
 
